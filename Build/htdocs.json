@@ -1,0 +1,16 @@
+{
+"companyName": "Starting",
+"productName": "6th Connection - Virtual Exhibition",
+"productVersion": "2.1",
+"dataUrl": "htdocs.data.unityweb",
+"wasmCodeUrl": "htdocs.wasm.code.unityweb",
+"wasmFrameworkUrl": "htdocs.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
